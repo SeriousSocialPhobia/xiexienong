@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject_demo"]=self["webpackChunkproject_demo"]||[]).push([[863],{7863:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=function(){var e=this,n=e._self._c;return n("div",{staticClass:"main"},[e._v("这是移动端的首页")])},l=[],r={},s=r,c=t(1656),a=(0,c.A)(s,u,l,!1,null,null,null),i=a.exports}}]);
+//# sourceMappingURL=863.d1d1a9be.js.map
